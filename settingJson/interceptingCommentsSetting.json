@@ -1,0 +1,11 @@
+{
+  "followPercent": 50,
+  "chatPercent": 60,
+  "candidateChat": "哇，终于又看到你拍视频了",
+  "keyWords": "互粉#粉#赞#秒回#回关",
+  "minFansCount": 20,
+  "maxFansCount": 20000000,
+  "videoCount": 2,
+  "maxRunCount": 10,
+  "runSpeed": 80
+}

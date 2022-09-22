@@ -1,0 +1,67 @@
+{
+  "accurateGetFansSetting": {
+    "followPercent": 90,
+    "dianzanPercent": 80,
+    "commentDianzanPercent": 100,
+    "commentPercent": 60,
+    "candidateComment": "哇，终于又看到你拍视频了",
+    "minFansCount": 20,
+    "maxFansCount": 20000000,
+    "videoCount": 2,
+    "maxRunCount": 10,
+    "runSpeed": 80
+  },
+  "interceptingCommentsSetting": {
+    "followPercent": 50,
+    "chatPercent": 60,
+    "candidateChat": "哇，终于又看到你拍视频了",
+    "keyWords": "互粉粉赞秒回回关",
+    "minFansCount": 200,
+    "maxFansCount": 20000000,
+    "videoCount": 1,
+    "maxRunCount": 10,
+    "runSpeed": 100
+  },
+  "rankListChatSetting": {
+    "followPercent": 100,
+    "chatPercent": 80,
+    "chatContent": "哇，又刷到你了！赞一个！互赞互关啦！",
+    "chatFloorCount": 3,
+    "maxRunCount": 100,
+    "runSpeed": 10
+  },
+  "sameCityGetFansSetting": {
+    "followPercent": 70,
+    "dianzanPercent": 80,
+    "commentDianzanPercent": 100,
+    "commentPercent": 60,
+    "candidateComment": "哇，终于又看到你拍视频了",
+    "maxRunCount": 5,
+    "runSpeed": 50
+  },
+  "returnVisitSetting": {
+    "followPercent": 100,
+    "likePercent": 100,
+    "commentPercent": 100,
+    "candidateComment": "我又来啦!",
+    "perVideoVisitCounts": 3,
+    "timeout": 100,
+    "operateCounts": 3,
+    "maxFans": 100000,
+    "minFans": 1,
+    "isOnlyHandleMaster": false,
+    "isNotHandleMaster": false
+  },
+  "precisionIndustry": {
+    "followPercent": 50,
+    "dianzanPercent": 80,
+    "commentDianzanPercent": 100,
+    "commentPercent": 60,
+    "candidateComment": "哇，终于又看到你拍视频了",
+    "minFansCount": 2,
+    "maxFansCount": 200000000,
+    "videoCount": 3,
+    "maxRunCount": 10,
+    "runSpeed": 85
+  }
+}

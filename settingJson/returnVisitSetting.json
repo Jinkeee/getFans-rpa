@@ -1,0 +1,13 @@
+{
+  "followPercent": 100,
+  "likePercent": 100,
+  "commentPercent": 100,
+  "candidateComment": "我又来啦!",
+  "perVideoVisitCounts": 3,
+  "timeout": 100,
+  "operateCounts": 3,
+  "maxFans": 100000,
+  "minFans": 1,
+  "isOnlyHandleMaster": false,
+  "isNotHandleMaster": false
+}

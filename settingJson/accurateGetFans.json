@@ -1,0 +1,12 @@
+{
+  "followPercent": 50,
+  "dianzanPercent": 80,
+  "commentDianzanPercent": 100,
+  "commentPercent": 60,
+  "candidateComment": "哇，终于又看到你拍视频了",
+  "minFansCount": 20,
+  "maxFansCount": 20000000,
+  "videoCount": 2,
+  "maxRunCount": 10,
+  "runSpeed": 80
+}

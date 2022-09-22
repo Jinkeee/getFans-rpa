@@ -1,0 +1,8 @@
+{
+  "followPercent": 100,
+  "chatPercent": 80,
+  "chatContent": "哇，又刷到你了！赞一个！互赞互关啦！",
+  "chatFloorCount": 3,
+  "maxRunCount": 100,
+  "runSpeed": 10
+}
