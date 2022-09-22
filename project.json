@@ -1,0 +1,16 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "49E4D627-7",
+    "build_number": 7,
+    "build_time": 1659948857456
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "main.js",
+  "name": "yuanyuan-rpa",
+  "packageName": "com.yuanyuan.rpa",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
