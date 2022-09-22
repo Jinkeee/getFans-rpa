@@ -1,2 +1,2 @@
 // 项目入口文件
-engines.execScriptFile('views/accurateGetFans.js');
+engines.execScriptFile('views/home.js');
